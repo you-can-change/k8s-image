@@ -1,0 +1,2 @@
+FROM minio/minio:RELEASE.2017-12-28T01-21-00Z
+MAINTAINER Jiangtao <vlan945@163.com>
