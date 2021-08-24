@@ -2,6 +2,7 @@
 
 `gitlab-5.2.0.tgz`是从`https://charts.gitlab.io/`下载的.
 
+
 # 临时记录
 
 ```bash
